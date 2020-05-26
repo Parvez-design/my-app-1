@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">myapp1</string>
+    <string name="g">G</string>
+    <string name="o">o</string>
+    <string name="g1">g</string>
+    <string name="l">l</string>
+    <string name="e">e</string>
+    <string name="con">Please, signIn to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="kml">Keep me logged in</string>
+    <string name="sign">Sign In</string>
+    <string name="account">Create Account</string>
+</resources>
